@@ -1,0 +1,12 @@
+You should have a game board, 100 letter tiles, a letter bag, and four racks.
+
+Before the game begins, all players should agree upon the dictionary that they will 
+use, in case of a challenge. All words labeled as a part of speech (including those 
+listed of foreign origin, and as archaic, obsolete, colloquial, slang, etc.) are 
+permitted with the exception of the following: words always capitalized, abbreviations, 
+prefixes and suffixes standing alone, words requiring a hyphen or an apostrophe.
+
+Place all letters in the pouch, or facedown beside the board, and mix them up. Draw for 
+first play. The player with the letter closest to "A" plays first. A blank tile beats 
+any letter. Return the letters to the pool and remix. All players draw seven new letters 
+and place them on their racks.
