@@ -1,6 +1,22 @@
 Scribble Game - README
 Welcome to the Scribble Game, a Java-based word-building game that challenges players to strategically place words on the game board, earning points for their linguistic prowess. This README provides an overview of the game, instructions for playing, and details about additional features.
 
+How to Use 
+
+Clone the repository:
+
+```bash
+  git clone https://github.com/SujalThakur1/Scribble.git
+  cd Scribble
+```
+
+Run and compile:
+
+```bash
+  javac menu.java
+  java menu
+```
+
 Overview
 Scribble is a turn-based game where players take turns adding words to the game board. Each word must connect to an existing word on the board, creating a dynamic and evolving word landscape. Points are awarded based on the letters used, contributing to the player's overall score.
 
